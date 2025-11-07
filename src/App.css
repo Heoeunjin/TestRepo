@@ -1,0 +1,26 @@
+.App {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Footer */
+.footer {
+  background: #f8f9fa;
+  border-top: 1px solid #e5e5e5;
+  padding: 40px 24px;
+  margin-top: auto;
+}
+
+.footer-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  text-align: center;
+  color: #666;
+  font-size: 14px;
+}
+
+.footer-container p {
+  margin: 8px 0;
+}
+
